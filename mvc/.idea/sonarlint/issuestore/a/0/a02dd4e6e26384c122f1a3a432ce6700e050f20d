@@ -1,0 +1,28 @@
+
+[
+squid:S106C"9Replace this use of System.out or System.err by a logger.(—€§†ùÿÿÿÿ8—ÚÈâ’.
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ññ¡Ì8—ÚÈâ’.
+psquid:S3776M"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¦¿ğ8—ÚÈâ’.
+isquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(ÎØíÃ8—ÚÈâ’.
+vsquid:S2226)"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(„»¤›8£©¥ß’.
+vsquid:S2226."XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ñÒÎ˜8£©¥ß’.
+usquid:S2226&"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(çÙâ78£©¥ß’.
+{squid:S2226$"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(—ïéÕüÿÿÿÿ8£©¥ß’.
+Osquid:S1989ª"0Add a "try/catch" block for "getDeclaredFields".(¡îÀÅ8ø¥Öå’.
+Ksquid:S1989¼",Add a "try/catch" block for "setAccessible".(â·Ò8ø¥Öå’.
+Asquid:S1989¿""Add a "try/catch" block for "set".(¬¡“©8ø¥Öå’.
+Dsquid:S1989°"%Add a "try/catch" block for "doPost".(‘›şá8ø¥Öå’.
+Dsquid:S1989°"%Add a "try/catch" block for "doPost".(‘›şá8ø¥Öå’.
+Lsquid:S1989Á"(Add a "try/catch" block for "getWriter".(ÇÌÕ©ûÿÿÿÿ8ø¥Öå’.
+Dsquid:S1989ˆ"%Add a "try/catch" block for "invoke".(‡®¡ü8ø¥Öå’.
+:squid:S3626÷"Remove this redundant jump.(ÉŠ©ƒ8ø¥Öå’.
+jsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(°Ää8ø¥Öå’.
+jsquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(³ûÈé8ø¥Öå’.
+isquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(ÒáN8ø¥Öå’.
+dsquid:S2147‹"ECombine this catch with the one at line 393, which has the same body.(åşáÿ8ø¥Öå’.
+Gsquid:S1148Á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ø¥Öå’.
+Gsquid:S1148ü"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ø¥Öå’.
+Gsquid:S1148©"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ø¥Öå’.
+Gsquid:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ø¥Öå’.
+Gsquid:S1148Œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ø¥Öå’.
+]squid:S1155Ğ">Use isEmpty() to check whether the collection is empty or not.(ÿ¾ğş8ø¥Öå’.
